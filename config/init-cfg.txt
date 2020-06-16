@@ -1,0 +1,14 @@
+type=dhcp-client
+ip-address=
+default-gateway=
+netmask=
+ipv6-address=
+ipv6-default-gateway=
+hostname=pa-fw
+panorama-server=192.168.100.10
+panorama-server-2=192.168.100.138
+tplname=
+dgname=
+dns-primary=8.8.8.8
+dns-secondary=1.1.1.1
+dhcp-accept-server-hostname=yes
